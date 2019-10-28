@@ -1,10 +1,8 @@
 import pandas as pd
 import numpy as np
-
 import matplotlib.pyplot as plt
 import matplotlib.style as style
 import matplotlib.gridspec as gridspec
-
 import datetime
 
 def main():
